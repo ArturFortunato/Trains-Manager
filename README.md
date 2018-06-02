@@ -1,6 +1,6 @@
 Compile:
 
-	-> export CLSSPATH=<folder>/mmt-core/mmt-core.jar:<folder>/mmt-app/mmt-app.jar:<folder>/po-uuilib-201708311009/po-uuilib.jar
+	-> export CLASSPATH=<folder>/mmt-core/mmt-core.jar:<folder>/mmt-app/mmt-app.jar:<folder>/po-uuilib-201708311009/po-uuilib.jar
 
 	-> enter MakeFile inside mmt-app folder
 
